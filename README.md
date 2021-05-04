@@ -12,4 +12,4 @@ Average Tilt at Latitude (avg_lat_tilt)
 
 **solar_API_single** allows manual input of lat and long for one off requests  
 **solar_API_array2** uses a csv of lat and longs to pull into the API and then saves the data for each into a csv and also takes the yearly data and formats for GIS usage  
-**solar_API_array** is the less efficient and comprehensive version of array2
+**solar_API_array** is the less efficient and less comprehensive version of array2
