@@ -16,6 +16,10 @@ https://www.seia.org/initiatives/concentrating-solar-power
 
 https://solareis.anl.gov/guide/solar/csp/  
 
+##### IMAGE 1: solar power tower - https://medium.com/cleantech-rising/a-beginners-guide-to-concentrated-solar-power-csp-d5e6f9d12cdc
+
+![image](https://user-images.githubusercontent.com/71047291/117904961-54136200-b2a0-11eb-8aec-c1585ada4576.png)  
+
 __________
 **DATA RETURNED**  
 Average Direct Normal Irradiance (kWh/m2/day) - measured surface perpendicular to direct solar rays (avg_dni)  
